@@ -1,0 +1,31 @@
+/* .main{ */
+    /* border-radius: 1px solid rgb(36, 11, 180); */
+    /* padding: auto; */
+    /* margin: auto; */
+    /* height: 700px; */
+    /* border: 2px solid black; */
+    /* background-color: blueviolet; */
+/* } */
+
+.navbar{
+
+    /* background-color: blue; */
+    border-radius: 1px solid black;
+    margin: auto;
+    padding: auto;
+    height: 700;
+}
+.a{
+    border: 2px solid black;
+    background-color: blue;
+}
+#child{
+    display: flex;
+    padding: auto;
+    margin: auto;
+    /* align-items: center; */
+    justify-content: center;
+}
+.button{
+    justify-content: center;
+}
